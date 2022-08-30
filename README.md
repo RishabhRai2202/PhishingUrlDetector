@@ -9,3 +9,5 @@ python phishurl.py
 ENTER THE URL : (input the URL) </br>
 "REST OF THE OUPUT ACCORDING TO YOUR INPUT URL".....
 
+</br> AUTHOR : Rishabh & Vaibhavi
+
